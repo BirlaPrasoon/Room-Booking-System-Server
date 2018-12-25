@@ -1,6 +1,6 @@
 import com.google.gson.*;
 import entities.*;
-import responseObjects.RequestResponse;
+import pojos.RequestResponse;
 
 import java.io.*;
 import java.sql.SQLException;

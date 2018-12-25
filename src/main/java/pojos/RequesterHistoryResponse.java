@@ -1,4 +1,4 @@
-package responseObjects;
+package pojos;
 
 public class RequesterHistoryResponse {
 

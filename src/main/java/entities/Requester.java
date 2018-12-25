@@ -1,6 +1,6 @@
 package entities;
 import database.JDBC;
-import responseObjects.RequestResponse;
+import pojos.RequestResponse;
 
 import java.sql.*;
 import java.util.ArrayList;

@@ -4,7 +4,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonArray;
 import entities.Room;
-import responseObjects.Timeline;
+import pojos.Timeline;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

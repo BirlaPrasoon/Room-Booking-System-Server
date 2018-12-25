@@ -1,7 +1,4 @@
-package responseObjects;
-
-import java.util.ArrayList;
-import java.util.List;
+package pojos;
 
 public class RequestResponse {
 

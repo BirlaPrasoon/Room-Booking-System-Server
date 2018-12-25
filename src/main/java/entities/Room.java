@@ -1,7 +1,7 @@
 package entities;
 
 import database.JDBC;
-import responseObjects.Timeline;
+import pojos.Timeline;
 
 import java.sql.*;
 import java.util.ArrayList;
